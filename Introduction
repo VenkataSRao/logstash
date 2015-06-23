@@ -1,0 +1,7 @@
+Logstash is an open source tool for collecting, parsing, and storing logs for future use. Kibana is a web interface 
+that can be used to search and view the logs that Logstash has indexed. Both of these tools are based on Elasticsearch.
+
+
+Using Elasticsearch as a backend datastore, and kibana as a frontend reporting tool, Logstash acts as the workhorse, 
+creating a powerful pipeline for storing, querying and analyzing your logs. With an arsenal of built-in inputs, filters, 
+codecs and outputs, you can harness some powerful functionality with a small amount of effort.
